@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../Lab 1"
+		},
+		{
+			"path": "../Cau 2"
+		},
+		{
+			"path": "../03-JS6-Bai8_bootstrapSV/03-JS6-Bai8_bootstrapSV"
+		},
+		{
+			"path": "../Bai 2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/NGUYEN THI KHANH VI/Downloads/watch"
+		},
+		{
+			"path": "C:/Users/NGUYEN THI KHANH VI/Downloads/furni-1.0.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LAB2_BOOTSTRAP"
+	}
+}
